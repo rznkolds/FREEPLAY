@@ -15,7 +15,7 @@ Data in this project is pulled from a remote server by retrofit.
 
 ## Project UI
 
-<img src="https://github.com/rznkolds/FREEPLAY/assets/97980164/ec7cd8f5-a628-4b81-a1b5-2ef05f4817ca" width= "300" height="600"/> <img src="https://github.com/rznkolds/FREEPLAY/assets/97980164/cb6bdd6e-12dd-4332-9380-ef10becfadca" width="300" height="600"/>
+<img src="https://github.com/rznkolds/FREEPLAY/assets/97980164/9f607b59-512f-496e-85d0-8b3f91b6cc7a" width= "300" height="600"/> <img src="https://github.com/rznkolds/FREEPLAY/assets/97980164/e6e30b84-a6f6-497e-bcc5-cb482c8f1072" width="300" height="600"/>
 
 
 [1]: https://developer.android.com/kotlin/flow
